@@ -408,5 +408,155 @@
       "guestDetail": "4 guests2-bedrooms2-beds2-bathrooms",
       "description1": "The Dome is a one bedroom bamboo villa built on two floors. Its ground floor houses an open air living room fitted with a dining area, a seating area and balinese style hammock.The living room has direct access to a spacious balinese style garden and the beautiful Santorini style infinity pool.Amenities in the living room include a projector with Netflix, Nespresso coffee machine and refrigerated minibar.The master bedroom on the upper floor is fitted with a king size bed, a walk-in wardrobe, air conditioning, an in-room bathtub from where our guests can enjoy the beautiful rice fields views and a balcony overlooking the famous volcano Mount Agung. The bedroom houses a modernly equipped bathroom."
     }
+  ],
+  "states" : [
+    {
+      "name": "Andaman and Nicobar Islands",
+      "state_code": "AN"
+    },
+    {
+      "name": "Andhra Pradesh",
+      "state_code": "AP"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "state_code": "AR"
+    },
+    {
+      "name": "Assam",
+      "state_code": "AS"
+    },
+    {
+      "name": "Bihar",
+      "state_code": "BR"
+    },
+    {
+      "name": "Chandigarh",
+      "state_code": "CH"
+    },
+    {
+      "name": "Chhattisgarh",
+      "state_code": "CT"
+    },
+    {
+      "name": "Dadra and Nagar Haveli",
+      "state_code": "DN"
+    },
+    {
+      "name": "Daman and Diu",
+      "state_code": "DD"
+    },
+    {
+      "name": "Delhi",
+      "state_code": "DL"
+    },
+    {
+      "name": "Goa",
+      "state_code": "GA"
+    },
+    {
+      "name": "Gujarat",
+      "state_code": "GJ"
+    },
+    {
+      "name": "Haryana",
+      "state_code": "HR"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "state_code": "HP"
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "state_code": "JK"
+    },
+    {
+      "name": "Jharkhand",
+      "state_code": "JH"
+    },
+    {
+      "name": "Karnataka",
+      "state_code": "KA"
+    },
+    {
+      "name": "Kerala",
+      "state_code": "KL"
+    },
+    {
+      "name": "Ladakh",
+      "state_code": "LA"
+    },
+    {
+      "name": "Lakshadweep",
+      "state_code": "LD"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "state_code": "MP"
+    },
+    {
+      "name": "Maharashtra",
+      "state_code": "MH"
+    },
+    {
+      "name": "Manipur",
+      "state_code": "MN"
+    },
+    {
+      "name": "Meghalaya",
+      "state_code": "ML"
+    },
+    {
+      "name": "Mizoram",
+      "state_code": "MZ"
+    },
+    {
+      "name": "Nagaland",
+      "state_code": "NL"
+    },
+    {
+      "name": "Odisha",
+      "state_code": "OR"
+    },
+    {
+      "name": "Puducherry",
+      "state_code": "PY"
+    },
+    {
+      "name": "Punjab",
+      "state_code": "PB"
+    },
+    {
+      "name": "Rajasthan",
+      "state_code": "RJ"
+    },
+    {
+      "name": "Sikkim",
+      "state_code": "SK"
+    },
+    {
+      "name": "Tamil Nadu",
+      "state_code": "TN"
+    },
+    {
+      "name": "Telangana",
+      "state_code": "TG"
+    },
+    {
+      "name": "Tripura",
+      "state_code": "TR"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "state_code": "UP"
+    },
+    {
+      "name": "Uttarakhand",
+      "state_code": "UT"
+    },
+    {
+      "name": "West Bengal",
+      "state_code": "WB"
+    }
   ]
 }
