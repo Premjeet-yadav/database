@@ -147,6 +147,10 @@
     {
       "name": "West Bengal",
       "state_code": "WB"
+    },
+    {
+      "name": "KK",
+      "state_code": "KK"
     }
   ],
   "hotels" : [
