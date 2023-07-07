@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            display: flex;
+            flex-direction: column;
+            width: 30%;
+            margin: auto;
+        }
+        input{
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+    <input type="text" id="name" placeholder="name">
+    <input type="text" id="main_url" placeholder="main_url">
+    <input type="text" id="desc" placeholder="desc">
+    <input type="text" id="cost" placeholder="cost">
+    <input type="text" id="title" placeholder="title">
+    <input type="text" id="desc1" placeholder="desc1">
+    <input type="text" id="rating" placeholder="rating">
+    <input type="text" id="country" placeholder="country">
+    <input type="button" value="Add" id="button">
+    </div>
+</body>
+<script>
+    let count;
+    let data = fetch("https://database-sr9b.onrender.com/hotels")
+    .then((res)=>{
+        return res.json()
+    })
+    .then((data)=>{
+        count = data.length+1
+    })
+    document.querySelector("#button").addEventListener("click",()=>{
+        let obj = {
+            "urls": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg?im_w=960",
+            "url1": "https://a0.muscache.com/im/pictures/miso/Hosting-736198410456285256/original/8b801a37-484c-4f8a-b035-9e7835576c74.jpeg?im_w=720",
+            "url2": "https://a0.muscache.com/im/pictures/miso/Hosting-736198410456285256/original/4e0c2fb9-3c27-46c0-970e-ece0515c88ae.jpeg?im_w=720",
+            "url3": "https://a0.muscache.com/im/pictures/miso/Hosting-736198410456285256/original/91ea45b0-c5c3-40a3-a4cb-b3fc0b908a2f.jpeg?im_w=720",
+            "url4": "https://a0.muscache.com/im/pictures/miso/Hosting-736198410456285256/original/26dded34-e53e-42b0-9538-b28292796049.jpeg?im_w=720",
+        }
+        obj.id = count++
+        obj.Country = document.querySelector("#country").value || "India"
+        obj.name = document.querySelector("#name").value
+        obj.url = document.querySelector("#main_url").value
+        obj.description = document.querySelector("#desc").value
+        obj.cost = document.querySelector("#cost").value
+        obj.title = document.querySelector("#title").value
+        obj.heading = document.querySelector("#title").value
+        obj.description1 = document.querySelector("#desc1").value
+        obj.rating = document.querySelector("#rating").value
+
+        let response = fetch("https://database-sr9b.onrender.com/hotels",{
+            method: "POST",
+            headers: {
+                "Content-type": "application/json"
+            },
+            body : JSON.stringify(obj)
+        })
+    })
+</script>
+</html>
