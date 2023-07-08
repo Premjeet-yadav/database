@@ -591,13 +591,12 @@
       "cost": "75000",
       "title": "Beachfront Villa hosted by Phuket Beachfront Villa",
       "heading": "Tranquil Oasis by the Sea",
-      "urls": [
+      "urls":
         "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg?im_w=960",
-        "https://a0.muscache.com/im/pictures/e15ee353-0861-44ed-868a-56091755e513.jpg?im_w=720",
-        "https://a0.muscache.com/im/pictures/miso/Hosting-43629767/original/ec85ccc0-281c-44fc-a061-bc1e87ea0081.jpeg?im_w=720",
-        "https://a0.muscache.com/im/pictures/45a3aa2b-ce00-4068-9ebe-9f83ca281fe4.jpg?im_w=720",
-        "https://a0.muscache.com/im/pictures/f474dfbe-557a-4d07-8d6e-76aba506b5a6.jpg?im_w=720"
-      ],
+      "url1" :  "https://a0.muscache.com/im/pictures/e15ee353-0861-44ed-868a-56091755e513.jpg?im_w=720",
+      "url2" : "https://a0.muscache.com/im/pictures/miso/Hosting-43629767/original/ec85ccc0-281c-44fc-a061-bc1e87ea0081.jpeg?im_w=720",
+      "url3" : "https://a0.muscache.com/im/pictures/45a3aa2b-ce00-4068-9ebe-9f83ca281fe4.jpg?im_w=720",
+      "url4" : "https://a0.muscache.com/im/pictures/f474dfbe-557a-4d07-8d6e-76aba506b5a6.jpg?im_w=720",
       "guestDetail": "6 guests, 3 bedrooms, 3 beds, 3 bathrooms",
       "description1": "This beachfront villa in Phuket offers the perfect escape for those seeking luxury and relaxation. With three bedrooms, it can accommodate up to six guests. Wake up to stunning ocean views, take a dip in the private pool, or simply unwind on the spacious terrace. The villa features modern amenities, stylish decor, and direct access to the beach. Experience the ultimate tropical getaway at this tranquil oasis.",
       "ratings": 4.8
@@ -611,13 +610,11 @@
       "cost": "89000",
       "title": "Beach Resort hosted by Krabi Beach Resort",
       "heading": "Tropical Paradise Retreat",
-      "urls": [
-        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg?im_w=960",
-        "https://a0.muscache.com/im/pictures/e15ee353-0861-44ed-868a-56091755e513.jpg?im_w=720",
-        "https://a0.muscache.com/im/pictures/miso/Hosting-43629767/original/ec85ccc0-281c-44fc-a061-bc1e87ea0081.jpeg?im_w=720",
-        "https://a0.muscache.com/im/pictures/45a3aa2b-ce00-4068-9ebe-9f83ca281fe4.jpg?im_w=720",
-        "https://a0.muscache.com/im/pictures/f474dfbe-557a-4d07-8d6e-76aba506b5a6.jpg?im_w=720"
-      ],
+      "urls": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg?im_w=960",
+      "url1" :  "https://a0.muscache.com/im/pictures/e15ee353-0861-44ed-868a-56091755e513.jpg?im_w=720",
+      "url2" :  "https://a0.muscache.com/im/pictures/miso/Hosting-43629767/original/ec85ccc0-281c-44fc-a061-bc1e87ea0081.jpeg?im_w=720",
+      "url3" : "https://a0.muscache.com/im/pictures/45a3aa2b-ce00-4068-9ebe-9f83ca281fe4.jpg?im_w=720",
+      "url4" : "https://a0.muscache.com/im/pictures/f474dfbe-557a-4d07-8d6e-76aba506b5a6.jpg?im_w=720",
       "guestDetail": "2 guests, 1 bedrooms, 2 beds, 1 bathrooms",
       "description1": "Nestled in the pristine beaches of Krabi, this beach resort offers a tropical paradise retreat. With luxurious amenities and stunning views, it's the perfect getaway for relaxation and rejuvenation. The resort features four spacious bedrooms, a private pool, and direct beach access. Indulge in the beauty of Krabi and create unforgettable memories at this exquisite beachfront resort.",
       "ratings": 4.9
@@ -631,13 +628,11 @@
       "cost": "89000",
       "title": "Beachfront Retreat hosted by California Beach Retreat",
       "heading": "Seaside Paradise Getaway",
-      "urls": [
-        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg?im_w=960",
-        "https://a0.muscache.com/im/pictures/e15ee353-0861-44ed-868a-56091755e513.jpg?im_w=720",
-        "https://a0.muscache.com/im/pictures/miso/Hosting-43629767/original/ec85ccc0-281c-44fc-a061-bc1e87ea0081.jpeg?im_w=720",
-        "https://a0.muscache.com/im/pictures/45a3aa2b-ce00-4068-9ebe-9f83ca281fe4.jpg?im_w=720",
-        "https://a0.muscache.com/im/pictures/f474dfbe-557a-4d07-8d6e-76aba506b5a6.jpg?im_w=720"
-      ],
+      "urls": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg?im_w=960",
+      "url1" : "https://a0.muscache.com/im/pictures/e15ee353-0861-44ed-868a-56091755e513.jpg?im_w=720",
+      "url2" : "https://a0.muscache.com/im/pictures/miso/Hosting-43629767/original/ec85ccc0-281c-44fc-a061-bc1e87ea0081.jpeg?im_w=720",
+      "url3" : "https://a0.muscache.com/im/pictures/45a3aa2b-ce00-4068-9ebe-9f83ca281fe4.jpg?im_w=720",
+      "url4" : "https://a0.muscache.com/im/pictures/f474dfbe-557a-4d07-8d6e-76aba506b5a6.jpg?im_w=720",
       "guestDetail": "5 guests, 3 bedrooms, 5 beds, 3 bathrooms",
       "description1": "Explore this stunning beachfront retreat in California. With breathtaking ocean views, direct beach access, and a luxurious setting, it's the perfect destination for a seaside paradise getaway. The retreat offers four spacious bedrooms, a private pool, and an expansive terrace to relax and soak in the coastal beauty. Indulge in the serene ambiance and create unforgettable memories at this exquisite beachfront retreat.",
       "ratings": 3.5
